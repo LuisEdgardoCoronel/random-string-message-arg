@@ -1,0 +1,25 @@
+{
+  "name": "random-string-message-arg",
+  "version": "1.0.0",
+  "description": "package npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisEdgardoCoronel/random-string-message-arg.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "string",
+    "message"
+  ],
+  "author": "Luis Coronel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisEdgardoCoronel/random-string-message-arg/issues"
+  },
+  "homepage": "https://github.com/LuisEdgardoCoronel/random-string-message-arg#readme"
+}
